@@ -16,22 +16,22 @@ $ conda install nb_conda
 
 ## Magic keyWords
 
-* Timing code
 ```
+* Timing code
 $ %timeit       # measure how long a function runs
 $ %%timeit      # measure how long a whole cell runs
 ```
 
-* Embedding visualizations in notebooks
 ```
+* Embedding visualizations in notebooks
 $ %matplotlib
 
 i.e. %metplotlib inline
 ```
 
 
-* Debugging in the Notebook
 ```
+* Debugging in the Notebook
 %pdb
 ```
 
